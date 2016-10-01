@@ -28,7 +28,9 @@ This is repository to store starter project for Team Assignment 1
 
 ## Sample Output
 
-```WELCOME TO THE STUDENT RANKING APPLICATION
+```
+
+WELCOME TO THE STUDENT RANKING APPLICATION
 -----------------------------------------------------------------------------
 Enter Number of Students you want to rank:
 3
@@ -63,6 +65,7 @@ Rank:Student Name:Points:Grade
 1:Robert:86:B
 2:John:78:C
 3:Smith:55:E
+
 ```
 
 ## Required learning below to successfully complete the assignment:
